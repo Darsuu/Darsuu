@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+My name is Darshan Abhaykumar and I'm currently a senior at BITS Pilani. I enjoy 
+
 
 <!--
 **Darsuu/Darsuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

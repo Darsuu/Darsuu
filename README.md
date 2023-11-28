@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=F47A9E&height=300&section=header&text=Hi&fontColor=FFFFFF&fontSize=50" /><br><br>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=F47A9E&height=300&section=header&text=Hi&fontColor=FFFFFF&animation=fadeIn&fontSize=50" /><br>
   <a href="[your-linkedin-URL](https://linkedin.com/in/www.linkedin.com/in/darshan-abhaykumar)">
     <img src ="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
   </a>
